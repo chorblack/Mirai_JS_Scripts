@@ -1,0 +1,9 @@
+{
+    "header": {
+        "name": "JsRunLua",
+        "author": "chorblack",
+        "version": "1.0",
+        "description": "A simple lua script engine for js"
+    },
+    "main": "main.js"
+}

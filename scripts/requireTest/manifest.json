@@ -1,0 +1,9 @@
+{
+    "header": {
+        "name": "点歌测试",
+        "author": "chorblack",
+        "version": "1.0",
+        "description": "这是一个点歌示例"
+    },
+    "main": "main.js"
+}

@@ -1,0 +1,9 @@
+{
+    "header": {
+        "name": "Text2Pic",
+        "author": "chorblack",
+        "version": "1.0",
+        "description": "Text2Pic is a tool to convert text to picture."
+    },
+    "main": "main.js"
+}

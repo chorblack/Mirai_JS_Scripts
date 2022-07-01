@@ -1,0 +1,9 @@
+{
+    "header": {
+        "name": "Bilibili",
+        "author": "chorblack",
+        "version": "1.0",
+        "description": "B站视频解析插件"
+    },
+    "main": "main.js"
+}

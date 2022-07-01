@@ -1,0 +1,9 @@
+{
+    "header": {
+        "name": "Opencv",
+        "author": "chorblack",
+        "version": "1.0",
+        "description": "图像处理"
+    },
+    "main": "main.js"
+}
